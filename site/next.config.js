@@ -11,7 +11,7 @@ const nextConfig = {
     contactUrl: 'https://github.com/flame-colored/samsclub/issues',
   },
   reactStrictMode: true,
-  basePath: '/1.1',
+  basePath: 'samsclub/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
