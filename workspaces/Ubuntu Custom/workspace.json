@@ -1,0 +1,15 @@
+{
+  "name": "Ubuntu Custom",
+  "description": "Customized Ubuntu with vim, git, curl, and htop.",
+  "docker_image": "ghcr.io/flame-colored/samsclub/ubuntu-custom:latest",
+  "categories": ["Development", "Linux"],
+  "icon_url": "workspace-name.png",
+  "friendly_name": "Ubuntu Custom",
+  "launch_config": {
+    "container_ports": [6901],
+    "resources": {
+      "cpu": 1,
+      "memory": "2G"
+    }
+  }
+}
