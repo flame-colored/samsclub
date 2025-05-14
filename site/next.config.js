@@ -4,7 +4,7 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Sam \'s workspaces',
+    name: 'Sam \'s Workspaces',
     description: 'Sam \'s workspaces Club.',
     icon: 'https://www.pngkit.com/png/full/715-7154118_png.png',
     listUrl: 'https://github.com/flame-colored/samsclub/',
