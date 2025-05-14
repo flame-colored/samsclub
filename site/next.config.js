@@ -6,12 +6,12 @@ const nextConfig = {
   env: {
     name: 'Sam \'s workspaces',
     description: 'Sam \'s workspaces Club.',
-    icon: '/img/logo.svg',
+    icon: 'https://www.pngkit.com/png/full/715-7154118_png.png',
     listUrl: 'https://github.com/flame-colored/samsclub/',
     contactUrl: 'https://github.com/flame-colored/samsclub/issues',
   },
   reactStrictMode: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/1.1',
   trailingSlash: true,
   images: {
     unoptimized: true,
